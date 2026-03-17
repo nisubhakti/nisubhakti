@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Nisarg<br><br>🔭 I'm a learning Python engineer with an eye for efficient and well-structured code.<br><br>🌱 Currently expanding my skills in software engineering best practices for QA.<br><br>💡 I'm passionate about building things that make a difference and I thrive on turning complex problems into elegant solutions.<br><br>🛠️ **Tech Stack:** Python, Django/Flask, SQL, Git, Docker (learning), etc.<br><br>💬 Feel free to ask me about my current projects or the Python ecosystem; I'm happy to help and collaborate!<br><br>📫 **How to reach me:**<br>*   [LinkedIn](www.linkedin.com/in/nisargkhatri)<br>*   Email: nisargkhatri22@gmail.com
+Hi there 👋, I'm Nisarg<br><br>🔭 I'm a learning Python engineer with an eye for efficient and well-structured code.<br><br>🌱 Currently expanding my skills in software engineering best practices for QA.<br><br>💡 I'm passionate about building things that make a difference and I thrive on turning complex problems into elegant solutions.<br><br>🛠️ **Tech Stack:** Python, Django/Flask, SQL, Git, Docker (learning), etc.<br><br>💬 Feel free to ask me about my current projects or the Python ecosystem; I'm happy to help and collaborate!<br><br>📫 **How to reach me:**<br>*   [LinkedIn](nisargkhatri)<br>*   Email: nisargkhatri22@gmail.com
 
 
 ## 🌐 Socials:
